@@ -1,0 +1,7 @@
+com\assignment\odiSoft\exception\FileUploadException.class
+com\assignment\odiSoft\service\FileUploadService.class
+com\assignment\odiSoft\exception\MyFileNotFoundException.class
+com\assignment\odiSoft\FileUploadApplication.class
+com\assignment\odiSoft\property\FileUploadProperties.class
+com\assignment\odiSoft\controller\FileUploadController.class
+com\assignment\odiSoft\dto\UploadFileResponse.class
